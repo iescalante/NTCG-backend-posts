@@ -1,4 +1,4 @@
-# NTCG-rest-basic
+# NTCG-backend-posts
 
 Reviewing the basics of REST API from the NodeJs - The Complete Guide course by Maximilian Schwarzmüller.
 
